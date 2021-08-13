@@ -34,8 +34,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Website](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/KhadeejathulHumaira/profile)
+- Live Site URL: [Website](profilehumaira.netlify.app)
 
 ## My process
 
